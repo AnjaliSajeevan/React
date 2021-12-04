@@ -1,0 +1,28 @@
+{
+  "name": "lab-8-anjalisajeevan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall2021/lab-8-AnjaliSajeevan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall2021/lab-8-AnjaliSajeevan/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall2021/lab-8-AnjaliSajeevan#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "debug": "^4.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  }
+}
